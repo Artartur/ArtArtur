@@ -7,7 +7,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artartur&layout=compact&theme=tokyonight"/>  
   <img align="right" style="border-color: #0000;" alt="Igor" height="171em" width="370px" src="https://c.tenor.com/f7uhDqZB6GAAAAAd/yuuji-itadori-itadori.gif">
   </div>
-  <img align="left" alt="Artur" height="100em"src="https://i.pinimg.com/originals/b0/7b/1b/b07b1b0a409393857ec025afa54ab60f.gif"> 
   <div style="display: flex; flex-direction:row;">
     <div style="display: inline_block;"><br>
    <a href="https://www.java.com/pt-BR/download/help/develop.html"><img align="center" alt="Artur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
