@@ -3,9 +3,9 @@
 
   <div style="display: flex; flex-direction:row;">
   <a href="https://github.com/Artartur">
-<!--   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Artartur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Artartur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artartur&layout=compact&theme=tokyonight"/>  
-  </div> -->
+  </div>
   <div style="display: flex; flex-direction:row;">
     <div style="display: inline_block;"><br>
    <a href="https://www.java.com/pt-BR/download/help/develop.html"><img align="center" alt="Artur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
