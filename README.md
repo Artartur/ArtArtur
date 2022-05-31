@@ -8,11 +8,12 @@
   </div>
   <div style="display: flex; flex-direction:row;">
     <div style="display: inline_block;"><br>
-   <a href="https://www.java.com/pt-BR/download/help/develop.html"><img align="center" alt="Artur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-  <a href="https://www.w3schools.com/js/"><img align="center" alt="Artur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.w3schools.com/html/"><img align="center" alt="Artur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3schools.com/css/"><img align="center" alt="Artur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://pt-br.reactjs.org"><img align="center" alt="Artur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+   <a href="https://www.java.com/pt-BR/download/help/develop.html"><img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+  <a href="https://www.w3schools.com/js/"><img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://www.w3schools.com/html/"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://www.w3schools.com/css/"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://pt-br.reactjs.org"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+     <a href="https://pt-br.reactjs.org"><img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongo.svg"></a>
    <a>🔥 I’m currently learning Java, JS, React, Html and CSS 🔥</a> 
   <a href = "mailto:arturgfsx@gmail.com"><img align="center" src="https://img.icons8.com/color/30/000000/gmail--v1.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artur-g-souza/" target="_blank"><img align="center"src="https://img.icons8.com/fluency/30/000000/linkedin.png" target="_blank"/></a>
