@@ -4,7 +4,7 @@
   <div style="display: flex; flex-direction:row;">
   <a href="https://github.com/Artartur">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Artartur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artartur&layout=compact&theme=tokyonight"/>  
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artartur&layout=compact&theme=tokyonight"/>  a
   </div>
   <div style="display: flex; flex-direction:row;">
     <div style="display: inline_block;"><br>
