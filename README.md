@@ -14,7 +14,7 @@
   <a href="https://www.w3schools.com/css/"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://pt-br.reactjs.org"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
      <a href="https://www.mongodb.com"><img align="center" alt="MongoDB" height="30" width="40" src="https://img.icons8.com/color/480/mongodb.png"></a>
-   <a>🔥 I’m currently learning Java, JS, React, MongoDB, Html and CSS 🔥</a> 
+   <a>🔥 I’m currently learning Java, JS, React, MongoDB, Html and CSS. 🔥</a> 
   <a href = "mailto:arturgfsx@gmail.com"><img align="center" src="https://img.icons8.com/color/30/000000/gmail--v1.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artur-g-souza/" target="_blank"><img align="center"src="https://img.icons8.com/fluency/30/000000/linkedin.png" target="_blank"/></a>
  </div>
