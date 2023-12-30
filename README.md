@@ -12,7 +12,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Artartur&layout=compact&theme=tokyonight)](https://github.com/Artartur)
 
 ### 🎓 Education
-- Graduated in: System Analysis | ***Senac/PE*** - 2023
+
+Graduated in: System Analysis | ***Senac/PE*** - 2023
 
 ### 🔧 Technologies & Tools
 I specialize in:
