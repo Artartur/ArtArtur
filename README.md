@@ -29,7 +29,7 @@ I specialize in:
 <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" alt="Docker" width="40" title="Docker">
 
 ### 🚀 Experience
-🔥 I have worked for 2.5 years with various stacks, including: Java, JavaScript, HTML, CSS, SASS, React, TypeScript, Node.js, Jest, Playwright, and Docker.
+🔥 I have worked for 2.5 years with various stacks, including: Java, JavaScript, Angular, React, Typescript HTML, CSS, SASS, Node.js, Jest, Playwright, and Docker.
 
 - Developing responsive interfaces
 - Developing new features
