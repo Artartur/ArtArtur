@@ -35,6 +35,9 @@ I specialize in:
 - Developing new features
 - Implementing new features
 - Bug fixing
+- Code refactoring
+- Code Review
+- Improving the code perfomance
 - Developing unit and functional tests
 - Using versioning tools
 - Using SCRUM and Kanban tools
