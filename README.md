@@ -16,20 +16,15 @@
 Graduated in: System Analysis | ***Senac/PE*** - 2023
 
 ### 🔧 Technologies & Tools
-I specialize in:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" title="Java">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30" title="Javascript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" title="React">
-<img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="Angular" width="26" title="Angular">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" title="Typescript">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Scss" width="40" title="Sass">
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js" width="30" title="Node">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="Jest" width="30" title="Jest">
-<img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" width="30" title="Playwright">
-<img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" alt="Docker" width="40" title="Docker">
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react,typescript,javascript,bootstrap,css,html,sass,tailwind,jest,nodejs,express,java,docker&theme=dark)](https://skillicons.dev)
+
+### 💻 Operational System
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu&theme=dark)](https://skillicons.dev)
 
 ### 🚀 Experience
-🔥 I have worked for 2.5 years with various stacks, including: Java, JavaScript, Angular, React, Typescript HTML, CSS, SASS, Node.js, Jest, Playwright, and Docker.
+🔥 I have worked for 2.5 years with various stacks, including: JavaScript, Angular, React, Typescript, HTML, CSS, SASS, Bootstrap, Node.js, Java, Jest, Playwright, and Docker.
 
 - Developing responsive interfaces
 - Developing new features
