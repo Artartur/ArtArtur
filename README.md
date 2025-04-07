@@ -24,7 +24,7 @@ Graduated in: System Analysis | ***Senac/PE*** - 2023
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu&theme=dark)](https://skillicons.dev)
 
 ### 🚀 Experience
-🔥 I have worked for 2.5 years with various stacks, including: JavaScript, Angular, React, Typescript, HTML, CSS, SASS, Bootstrap, Node.js, Java, Jest, Playwright, and Docker.
+🔥 I have worked for 4 years with various stacks, including: JavaScript, Angular, React, Typescript, HTML, CSS, SASS, Tailwind, MaterialUI, Bootstrap, Node.js, Java, Jest, Playwright, and Docker.
 
 - Developing responsive interfaces
 - Developing new features
