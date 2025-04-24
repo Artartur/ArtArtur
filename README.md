@@ -17,7 +17,7 @@ Graduated in: System Analysis | ***Senac/PE*** - 2023
 
 ### 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,typescript,javascript,next,bootstrap,css,html,sass,tailwind,styledcomponents,jest,nodejs,express,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,typescript,javascript,next,bootstrap,materialui,css,html,sass,tailwind,styledcomponents,jest,nodejs,express&theme=dark)](https://skillicons.dev)
 
 ### 💻 Operational System
 
