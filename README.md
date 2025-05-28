@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?&color=%239F3CFF&lines=Hello,+World!+👋;I'm+Artur+Souza+...;I'm+a+Software+Engineer+&center=true&size=25">
 
 ### About Me
-- 👨‍💻 I'm Artur Souza, a passionate software developer.
+- 👨‍💻 I'm Artur Souza, I'm a frontend developer.
 - 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/artur-g-souza/) for professional networking.
 - ✉️ Feel free to reach out to me via [email](mailto:arturgfsx@gmail.com).
 
@@ -45,5 +45,3 @@ Graduated in: System Analysis | ***Senac/PE*** - 2023
 Feel free to explore my repositories, and don't hesitate to reach out!
 
 ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
-
-
